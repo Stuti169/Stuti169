@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stuti Karki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently into Data Analysis.
 
 - 📫 How to reach me **karkistuti16@gmail.com**
 
